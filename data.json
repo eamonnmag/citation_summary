@@ -1,0 +1,83 @@
+{
+  "citations": [
+    {
+      "citing_paper_id": 123,
+      "citation_date": "2005-04-23",
+      "self_citation": false,
+      "citation_type": "preprint",
+      "citation_subject": "Astrophysics",
+
+      "cited_paper_id": 456,
+      "cited_paper_date": "2004-03-23",
+      "cited_paper_type": "published article",
+      "cited_subject": "HEP Experimental"
+    },
+
+    {
+      "citing_paper_id": 123,
+      "citation_date": "2001-04-24",
+      "self_citation": false,
+      "citation_type": "preprint",
+      "citation_subject": "HEP Theory",
+
+      "cited_paper_id": 457,
+      "cited_paper_date": "2000-03-23",
+      "cited_paper_type": "preprint article",
+      "cited_subject": "HEP Theory"
+    },
+
+    {
+      "citing_paper_id": 120,
+      "citation_date": "2002-04-24",
+      "self_citation": true,
+      "citation_type": "article",
+      "citation_subject": "HEP Experimental",
+
+      "cited_paper_id": 457,
+      "cited_paper_date": "2000-03-23",
+      "cited_paper_type": "preprint article",
+      "cited_subject": "HEP Experimental"
+    },
+
+    {
+      "citing_paper_id": 120,
+      "citation_date": "2002-04-24",
+      "self_citation": true,
+      "citation_type": "article",
+      "citation_subject": "HEP Experimental",
+
+      "cited_paper_id": 457,
+      "cited_paper_date": "2000-03-23",
+      "cited_paper_type": "preprint article",
+      "cited_subject": "HEP Experimental"
+    },
+
+
+    {
+      "citing_paper_id": 125,
+      "citation_date": "2006-04-24",
+      "self_citation": true,
+      "citation_type": "preprint",
+      "citation_subject": "HEP Experimental",
+
+      "cited_paper_id": 457,
+      "cited_paper_date": "2000-06-23",
+      "cited_paper_type": "preprint article",
+      "cited_subject": "HEP Experimental"
+    },
+
+    {
+      "citing_paper_id": 125,
+      "citation_date": "2005-06-23",
+      "self_citation": false,
+      "citation_type": "article",
+      "citation_subject": "Astrophysics",
+
+      "cited_paper_id": 458,
+      "cited_paper_date": "2000-08-23",
+      "cited_paper_type": "preprint article",
+      "cited_subject": "HEP Experimental"
+
+    }
+  ]
+}
